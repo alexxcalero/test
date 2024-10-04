@@ -11,7 +11,7 @@
 
 # NetBeans folders
 **/nbproject/private/
-**/nbproject/
+**/nbproject/*
 !**/nbproject/project.properties
 !**/nbproject/configurations.xml
 !**/nbproject/project.xml

@@ -6,10 +6,15 @@
 *.out
 *.app
 
+# Class files
+*.class
+
 # NetBeans folders
 **/nbproject/private/
-**/nbproject/Makefile-*.mk
-**/nbproject/Package-*.bash
+**/nbproject/
+!**/nbproject/project.properties
+!**/nbproject/configurations.xml
+!**/nbproject/project.xml
 build/
 dist/
 

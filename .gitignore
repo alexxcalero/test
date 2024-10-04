@@ -1,2 +1,18 @@
-# Ejecutables
+# Object files
+*.o
+
+# Execute files
 *.exe
+*.out
+*.app
+
+# NetBeans folders
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+dist/
+
+# NetBeans files
+*/.dep.inc
+*.inc

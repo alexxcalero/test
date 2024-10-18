@@ -1,2 +1,2 @@
-*.mk linguist-ignore
-Makefile linguist-ignore
+*.mk linguist-vendored
+Makefile linguist-vendored

@@ -1,5 +1,5 @@
 hostname=labs-1inf30-prog3-20242.c8ttwc6gkvxy.us-east-1.rds.amazonaws.com
 user=admin
-password=messi4thewin
+password=programacion3
 port=3306
 database=prueba
